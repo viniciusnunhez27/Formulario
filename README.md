@@ -14,9 +14,3 @@
  -Treinar as habilidades em HTML e CSS.
  
  
- # Possiveis Updates.
- - Tela de Cadastro de usuário novo.
- - Validação de Nome.
- - Validação de e-mail. 
- - Validação se usuário já existe. 
-
